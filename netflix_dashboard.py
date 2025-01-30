@@ -7,13 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1GH1LnxY_y_knRfdbE8tpOk6GEu81u_4w
 """
 
-!pip install streamlit
-!pip install pandas
-!pip install altair
-!pip install plotly
-!pip install matplotlib
-!pip install seaborn
-
 import streamlit as st
 import pandas as pd
 import altair as alt
